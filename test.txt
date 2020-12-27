@@ -1,0 +1,15 @@
+cd = back to Directory
+pwd = Show file Directory
+cd ../.. = Back to two file dirrctory
+ls = file list
+ls -la = file list details
+clear = clear terminal 
+history = search terminal history
+touch = new file
+vim = new text write
+mkdir = new folder create
+cp = copy
+rm = delete folder
+mv = move
+rm -rf = delete file
+help = help comment line
